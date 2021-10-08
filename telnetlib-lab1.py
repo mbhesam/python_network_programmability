@@ -3,6 +3,8 @@ from getpass import getpass
 from termcolor import colored
 from time import sleep
 
+
+
 ip_addr  = ["192.168.1.1","192.168.1.2","192.168.1.3","192.168.1.4","192.168.1.5","192.168.1.6","192.168.1.17"
     ,"192.168.1.18","192.168.1.19","192.168.1.20"]
 username = "admin"
